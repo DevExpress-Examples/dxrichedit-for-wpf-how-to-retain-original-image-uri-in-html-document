@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomUriProvider.cs](./CS/HTML_Export_ImageSourceExample/CustomUriProvider.cs) (VB: [CustomUriProvider.vb](./VB/HTML_Export_ImageSourceExample/CustomUriProvider.vb))
+* [MainWindow.xaml](./CS/HTML_Export_ImageSourceExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/HTML_Export_ImageSourceExample/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/HTML_Export_ImageSourceExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/HTML_Export_ImageSourceExample/MainWindow.xaml.vb))
+<!-- default file list end -->
 # DXRichEdit for WPF: How to retain original image URI in HTML document
 
 
