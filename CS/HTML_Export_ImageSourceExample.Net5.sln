@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML_Export_ImageSourceExample", "HTML_Export_ImageSourceExample\HTML_Export_ImageSourceExample.csproj", "{61441759-5530-4310-9A65-6CF1748066C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML_Export_ImageSourceExample", "HTML_Export_ImageSourceExample\HTML_Export_ImageSourceExample.Net5.csproj", "{61441759-5530-4310-9A65-6CF1748066C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
